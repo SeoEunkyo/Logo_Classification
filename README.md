@@ -25,10 +25,10 @@ $ npm start
 
 3.  click the classfy Button under the picture
 
-![screen](./pics/howtouse03.PNG)
+    ![screen](./pics/howtouse03.PNG)
 
 
 4.  you can see the reuslt 
 
-![screen](./pics/howtouse04.PNG)
+    ![screen](./pics/howtouse04.PNG)
 
