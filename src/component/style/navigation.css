@@ -1,0 +1,26 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: #1d809f;
+    align-items: center;
+    padding: 0 20px;
+  }
+  
+  .logo {
+    font-size: 30px;
+    color: #ffffff;
+  }
+  
+  nav ul {
+    list-style: none;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-right: 28px;
+  }
+  
+  nav ul li button {
+    text-decoration: none;
+    color: #ffffff;
+  }
